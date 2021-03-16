@@ -1,0 +1,37 @@
+{
+  "apps": [
+    {
+      "beta": true,
+      "bundleIdentifier": "com.liberty.rekarios",
+      "developerName": "exDev, mlostek, sc0rps",
+      "downloadURL": "",
+      "iconURL": "https://github.com/mlostekk/Cloudy/releases/download/reKairos_v16.0.0(168)/reKairos-v16.0.0.168.ipa",
+      "localizedDescription": "reKarios is a Fortnite iOS revival project that is based on Cloud gaming which doesn't depend on the device, which makes low framerate a thing of the past. All you need is a good internet connection and an iOS device. That's it.",
+      "name": "reKarios",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/nonforgettable/rekarios-stuff/main/rekarios-banner.png"
+      ],
+      "size": 2184796,
+      "subtitle": "An Fortnite iOS revival project based on GeForce Now",
+      "tintColor": "15aad9",
+      "version": "16.0.0cpb",
+      "versionDate": "2021-03-16",
+      "versionDescription": "Initial release."
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "reKarios Repository",
+  "news": [
+    {
+      "appID": "com.liberty.rekarios",
+      "caption": "No more limitations from a frivolous lawsuit from Epic.",
+      "date": "2021-03-16",
+      "identifier": "rekarios-now-released",
+      "imageURL": "https://raw.githubusercontent.com/nonforgettable/rekarios-stuff/main/rekarios-news-banner.png",
+      "notify": false,
+      "tintColor": "15aad9",
+      "title": "reKarios Released"
+    }
+  ],
+  "userInfo": {}
+}
