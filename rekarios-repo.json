@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": true,
-      "bundleIdentifier": "com.liberty.reKarios",
+      "bundleIdentifier": "com.liberty.rekarios",
       "developerName": "exDev, mlostek, sc0rps",
       "downloadURL": "https://github.com/mlostekk/Cloudy/releases/download/reKairos_v16.0.0(168)/reKairos-v16.0.0.168.ipa",
       "iconURL": "https://raw.githubusercontent.com/mlostekk/Cloudy/develop/Media/reKairos/icon.png",
@@ -15,7 +15,7 @@
       "subtitle": "An Fortnite iOS revival project based on GeForce Now",
       "tintColor": "15aad9",
       "version": "16.0.0cpb",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2021-03-16",
       "versionDescription": "Initial release."
     }
   ],
@@ -23,7 +23,7 @@
   "name": "reKarios Repository",
   "news": [
     {
-      "appID": "com.liberty.rekarios",
+      "appID": "com.liberty.reKarios",
       "caption": "No more limitations from a frivolous lawsuit from Epic.",
       "date": "2021-03-16",
       "identifier": "rekarios-now-released",
