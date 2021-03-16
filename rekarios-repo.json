@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": true,
-      "bundleIdentifier": "com.liberty.rekarios",
+      "bundleIdentifier": "com.liberty.reKarios",
       "developerName": "exDev, mlostek, sc0rps",
       "downloadURL": "https://github.com/mlostekk/Cloudy/releases/download/reKairos_v16.0.0(168)/reKairos-v16.0.0.168.ipa",
       "iconURL": "https://raw.githubusercontent.com/mlostekk/Cloudy/develop/Media/reKairos/icon.png",
@@ -28,7 +28,7 @@
       "date": "2021-03-16",
       "identifier": "rekarios-now-released",
       "imageURL": "https://raw.githubusercontent.com/nonforgettable/rekarios-stuff/main/rekarios-news-banner.png",
-      "notify": false,
+      "notify": true,
       "tintColor": "15aad9",
       "title": "reKarios Released"
     }
